@@ -1,0 +1,14 @@
+plotly
+wordcloud
+textblob
+gensim
+requests
+beautifulsoup4
+lxml
+dill
+
+scikit-learn
+numpy
+matplotlib
+seaborn
+nltk
