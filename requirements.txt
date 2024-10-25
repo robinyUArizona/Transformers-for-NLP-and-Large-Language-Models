@@ -10,3 +10,5 @@ gensim
 matplotlib
 seaborn
 nltk
+spacy
+tweepy
